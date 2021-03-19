@@ -1,1 +1,1 @@
-# linux-essentials
+# LINUX-ESSENTIALS
